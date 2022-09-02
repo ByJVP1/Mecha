@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_mecha.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+        <SubTexture name="Mecha Dance Idle0000" x="3994" y="3128" width="777" height="853"/>
+	<SubTexture name="Mecha Dance Idle0001" x="3994" y="3128" width="777" height="853"/>
+	<SubTexture name="Mecha Dance Idle0002" x="4771" y="3128" width="777" height="853"/>
+	<SubTexture name="Mecha Dance Idle0003" x="4771" y="3128" width="777" height="853"/>
+	<SubTexture name="Mecha Dance Idle0004" x="5548" y="3128" width="777" height="853"/>
+	<SubTexture name="Mecha Dance Idle0005" x="5548" y="3128" width="777" height="853"/>
+	<SubTexture name="Mecha Dance Idle0006" x="6325" y="3128" width="777" height="853"/>
+	<SubTexture name="Mecha Dance Idle0007" x="6325" y="3128" width="777" height="853"/>
+	<SubTexture name="Mecha Dance Idle0008" x="7102" y="3128" width="777" height="853"/>
+	<SubTexture name="Mecha Dance Idle0009" x="7102" y="3128" width="777" height="853"/>
+	<SubTexture name="Mecha Dance Idle0010" x="7102" y="3128" width="777" height="853"/>
+	<SubTexture name="Mecha Dance Idle0011" x="7102" y="3128" width="777" height="853"/>
+	<SubTexture name="Mecha Dance Idle0012" x="7102" y="3128" width="777" height="853"/>
+	<SubTexture name="Mecha Dance Idle0013" x="7102" y="3128" width="777" height="853"/>
+</TextureAtlas>
