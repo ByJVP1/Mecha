@@ -1,0 +1,202 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				196,
+				221
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF Super idle dance instance"
+		},
+		{
+			"offsets": [
+				211,
+				224
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT instance"
+		},
+		{
+			"offsets": [
+				212,
+				139
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN instance"
+		},
+		{
+			"offsets": [
+				201,
+				252
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP instance"
+		},
+		{
+			"offsets": [
+				142,
+				227
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT instance"
+		},
+		{
+			"offsets": [
+				214,
+				221
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS instance"
+		},
+		{
+			"offsets": [
+				214,
+				139
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS instance"
+		},
+		{
+			"offsets": [
+				201,
+				252
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS instance"
+		},
+		{
+			"offsets": [
+				137,
+				227
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS instance"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				196,
+				221
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "BF Super idle dance instance",
+			"indices": [
+				10010,
+				10011,
+				10012,
+				10013
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				211,
+				224
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "BF NOTE LEFT instance",
+			"indices": [
+				10012,
+				10013,
+				10014,
+				10015
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				142,
+				224
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "BF NOTE RIGHT instance",
+			"indices": [
+				10012,
+				10013,
+				10014,
+				10015
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				201,
+				252
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "BF NOTE UP instance",
+			"indices": [
+				10012,
+				10013,
+				10014,
+				10015
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				212,
+				139
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "BF NOTE DOWN instance",
+			"indices": [
+				10012,
+				10013,
+				10014,
+				10015
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Super_BoyFriend_Assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "super-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		196,
+		0
+	],
+	"camera_position": [
+		160,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

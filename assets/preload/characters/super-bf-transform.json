@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				196,
+				221
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				196,
+				221
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"offsets": [
+				196,
+				221
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "transform-loop",
+			"indices": [],
+			"name": "BF Transform Loop"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				196,
+				221
+			],
+			"anim": "transform",
+			"fps": 24,
+			"name": "BF Transform",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				196,
+				221
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF Transform",
+			"indices": []
+		},
+		{
+			"offsets": [
+				196,
+				221
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF Transform Loop"
+		},
+		{
+			"offsets": [
+				196,
+				221
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF Transform Loop"
+		},
+		{
+			"offsets": [
+				196,
+				221
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF Transform Loop"
+		},
+		{
+			"offsets": [
+				196,
+				221
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF Transform Loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Super_BoyFriend_Extra_Anims",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "super-bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		196,
+		0
+	],
+	"camera_position": [
+		50,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
