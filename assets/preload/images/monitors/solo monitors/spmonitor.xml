@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NOTE_assets.png">
+<SubTexture name="speedm0000" x="0" y="3" width="28" height="32" /> <!--static-->
+<SubTexture name="speedm0001" x="87" y="38" width="28" height="32" /> <!--shield-->
+<SubTexture name="speedm0002" x="29" y="3" width="28" height="32" /> <!--static2-->
+<SubTexture name="speedm0003" x="87" y="38" width="28" height="32" /> <!--shield-->
+<SubTexture name="speedm0004" x="87" y="38" width="28" height="32" /> <!--shield-->
+</TextureAtlas>

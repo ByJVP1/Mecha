@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NOTE_assets.png">
+
+<!--blue-->
+<SubTexture name="blue0000" x="0" y="3" width="28" height="32" /> <!--static-->
+<SubTexture name="blue0001" x="58" y="38" width="28" height="32" /> <!--shield-->
+<SubTexture name="blue0002" x="29" y="3" width="28" height="32" /> <!--static2-->
+<SubTexture name="blue0003" x="58" y="38" width="28" height="32" /> <!--shield-->
+<SubTexture name="blue0004" x="58" y="38" width="28" height="32" /> <!--shield-->
+
+<!--green-->
+<SubTexture name="green0000" x="0" y="3" width="28" height="32" /> <!--static-->
+<SubTexture name="green0001" x="58" y="38" width="28" height="32" /> <!--shield-->
+<SubTexture name="green0002" x="29" y="3" width="28" height="32" /> <!--static2-->
+<SubTexture name="green0003" x="58" y="38" width="28" height="32" /> <!--shield-->
+<SubTexture name="green0004" x="58" y="38" width="28" height="32" /> <!--shield-->
+
+<!--pruple-->
+<SubTexture name="purple0000" x="0" y="3" width="28" height="32" /> <!--static-->
+<SubTexture name="purple0001" x="58" y="38" width="28" height="32" /> <!--shield-->
+<SubTexture name="purple0002" x="29" y="3" width="28" height="32" /> <!--static2-->
+<SubTexture name="purple0003" x="58" y="38" width="28" height="32" /> <!--shield-->
+<SubTexture name="purple0004" x="58" y="38" width="28" height="32" /> <!--shield-->
+
+<!--red-->
+<SubTexture name="red0000" x="0" y="3" width="28" height="32" /> <!--static-->
+<SubTexture name="red0001" x="58" y="38" width="28" height="32" /> <!--shield-->
+<SubTexture name="red0002" x="29" y="3" width="28" height="32" /> <!--static2-->
+<SubTexture name="red0003" x="58" y="38" width="28" height="32" /> <!--shield-->
+<SubTexture name="red0004" x="58" y="38" width="28" height="32" /> <!--shield-->
+</TextureAtlas>

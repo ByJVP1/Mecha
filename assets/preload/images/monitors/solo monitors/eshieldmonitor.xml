@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NOTE_assets.png">
+<SubTexture name="eshieldm0000" x="0" y="3" width="28" height="32" /> <!--static-->
+<SubTexture name="eshieldm0001" x="29" y="38" width="28" height="32" /> <!--shield-->
+<SubTexture name="eshieldm0002" x="29" y="3" width="28" height="32" /> <!--static2-->
+<SubTexture name="eshieldm0003" x="29" y="38" width="28" height="32" /> <!--shield-->
+<SubTexture name="eshieldm0004" x="29" y="38" width="28" height="32" /> <!--shield-->
