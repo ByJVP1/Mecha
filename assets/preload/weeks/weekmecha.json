@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Turbo",
+			"mecha",
+			[
+				46,
+				113,
+				253
+			]
+		],
+		[
+			"Crush",
+			"smecha",
+			[
+				0,
+				113,
+				240
+			]
+		],
+		[
+			"War",
+			"metallix",
+			[
+				66,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"mecha",
+		"bf",
+		"gf"
+	],
+	"storyName": "yo holy shit this is mecha!!!1!!",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
