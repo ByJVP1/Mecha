@@ -1,0 +1,19 @@
+function onCreatePost()
+	makeAnimatedLuaSprite('test', 'monitors/shields/shield', getProperty('boyfriend.x'), getProperty('boyfriend.y'));
+		addAnimationByPrefix('test', 'animate', 'shield', 24, true);
+	scaleObject('test', 10, 10);
+	setProperty('test.antialiasing', false);
+	addLuaSprite('test', true);
+
+	makeAnimatedLuaSprite('test2', 'monitors/shields/shield', getProperty('iconP1.x'), getProperty('iconP1.y'));
+		addAnimationByPrefix('test2', 'animate', 'shield', 24, true);
+	setObjectCamera('test2', 'other');
+	scaleObject('test2', 3.5, 3.5);
+	setProperty('test2.antialiasing', false);
+	addLuaSprite('test2', true);
+end
+
+function onUpdate(elapsed)
+setProperty('test2.x', getProperty('iconP1.x'));
+setProperty('test2.y', getProperty('iconP1.y'));
+end
