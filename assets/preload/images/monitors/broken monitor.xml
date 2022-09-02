@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NOTE_assets.png">
+<SubTexture name="break0000" x="0" y="3" width="28" height="32" /> <!--boom-->
+<SubTexture name="break0001" x="28" y="3" width="30" height="32" /> <!--boom-->
+<SubTexture name="break0002" x="60" y="4" width="31" height="32" /> <!--boom-->
+<SubTexture name="break0003" x="0" y="39" width="30" height="30" /> <!--boom-->
+<SubTexture name="break0004" x="36" y="40" width="28" height="28" /> <!--boom-->
+<SubTexture name="break0005" x="87" y="73" width="28" height="32" /> <!--broken-->
+</TextureAtlas>

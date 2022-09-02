@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NOTE_assets.png">
+<SubTexture name="shieldm0000" x="0" y="3" width="28" height="32" /> <!--static-->
+<SubTexture name="shieldm0001" x="58" y="3" width="28" height="32" /> <!--shield-->
+<SubTexture name="shieldm0002" x="29" y="3" width="28" height="32" /> <!--static2-->
+<SubTexture name="shieldm0003" x="58" y="3" width="28" height="32" /> <!--shield-->
+<SubTexture name="shieldm0004" x="58" y="3" width="28" height="32" /> <!--shield-->
+
+<SubTexture name="fshieldm0000" x="0" y="3" width="28" height="32" /> <!--static-->
+<SubTexture name="fshieldm0001" x="87" y="3" width="28" height="32" /> <!--shield-->
+<SubTexture name="fshieldm0002" x="29" y="3" width="28" height="32" /> <!--static2-->
+<SubTexture name="fshieldm0003" x="87" y="3" width="28" height="32" /> <!--shield-->
+<SubTexture name="fshieldm0004" x="87" y="3" width="28" height="32" /> <!--shield-->
+
+<SubTexture name="bshieldm0000" x="0" y="3" width="28" height="32" /> <!--static-->
+<SubTexture name="bshieldm0001" x="0" y="38" width="28" height="32" /> <!--shield-->
+<SubTexture name="bshieldm0002" x="29" y="3" width="28" height="32" /> <!--static2-->
+<SubTexture name="bshieldm0003" x="0" y="3" width="28" height="32" /> <!--shield-->
+<SubTexture name="bshieldm0004" x="0" y="38" width="28" height="32" /> <!--shield-->
+
+<SubTexture name="eshieldm0000" x="0" y="3" width="28" height="32" /> <!--static-->
+<SubTexture name="eshieldm0001" x="29" y="38" width="28" height="32" /> <!--shield-->
+<SubTexture name="eshieldm0002" x="29" y="3" width="28" height="32" /> <!--static2-->
+<SubTexture name="eshieldm0003" x="29" y="38" width="28" height="32" /> <!--shield-->
+<SubTexture name="eshieldm0004" x="29" y="38" width="28" height="32" /> <!--shield-->
+
+<SubTexture name="ringm0000" x="0" y="3" width="28" height="32" /> <!--static-->
+<SubTexture name="ringm0001" x="58" y="38" width="28" height="32" /> <!--shield-->
+<SubTexture name="ringm0002" x="29" y="3" width="28" height="32" /> <!--static2-->
+<SubTexture name="ringm0003" x="58" y="38" width="28" height="32" /> <!--shield-->
+<SubTexture name="ringm0004" x="58" y="38" width="28" height="32" /> <!--shield-->
+
+<SubTexture name="speedm0000" x="0" y="3" width="28" height="32" /> <!--static-->
+<SubTexture name="speedm0001" x="87" y="38" width="28" height="32" /> <!--shield-->
+<SubTexture name="speedm0002" x="29" y="3" width="28" height="32" /> <!--static2-->
+<SubTexture name="speedm0003" x="87" y="38" width="28" height="32" /> <!--shield-->
+<SubTexture name="speedm0004" x="87" y="38" width="28" height="32" /> <!--shield-->
+
+<SubTexture name="invm0000" x="0" y="3" width="28" height="32" /> <!--static-->
+<SubTexture name="invm0001" x="0" y="73" width="28" height="32" /> <!--shield-->
+<SubTexture name="invm0002" x="29" y="3" width="28" height="32" /> <!--static2-->
+<SubTexture name="invm0003" x="0" y="73" width="28" height="32" /> <!--shield-->
+<SubTexture name="invm0004" x="0" y="73" width="28" height="32" /> <!--shield-->
+
+<SubTexture name="superm0000" x="0" y="3" width="28" height="32" /> <!--static-->
+<SubTexture name="superm0001" x="29" y="73" width="28" height="32" /> <!--shield-->
+<SubTexture name="superm0002" x="29" y="3" width="28" height="32" /> <!--static2-->
+<SubTexture name="superm0003" x="29" y="73" width="28" height="32" /> <!--shield-->
+<SubTexture name="superm0004" x="29" y="73" width="28" height="32" /> <!--shield-->
+
+<SubTexture name="eggm0000" x="0" y="3" width="28" height="32" /> <!--static-->
+<SubTexture name="eggm0001" x="58" y="73" width="28" height="32" /> <!--shield-->
+<SubTexture name="eggm0002" x="29" y="3" width="28" height="32" /> <!--static2-->
+<SubTexture name="eggm0003" x="58" y="73" width="28" height="32" /> <!--shield-->
+<SubTexture name="eggm0004" x="58" y="73" width="28" height="32" /> <!--shield-->
+
+<SubTexture name="extralifem0000" x="0" y="3" width="28" height="32" /> <!--static-->
+<SubTexture name="extralifem0001" x="87" y="73" width="28" height="32" /> <!--shield-->
+<SubTexture name="extralifem0002" x="29" y="3" width="28" height="32" /> <!--static2-->
+<SubTexture name="extralifem0003" x="87" y="73" width="28" height="32" /> <!--shield-->
+<SubTexture name="extralifem0004" x="87" y="73" width="28" height="32" /> <!--shield-->
+</TextureAtlas>
