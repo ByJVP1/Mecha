@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NOTE_assets.png">
+<SubTexture name="flame0000" x="9" y="59" width="48" height="48" /> <!--flame-->
+<SubTexture name="flame0001" x="177" y="59" width="48" height="48" /> <!--flame2-->
+<SubTexture name="flame0002" x="65" y="59" width="48" height="48" /> <!--flame-->
+<SubTexture name="flame0003" x="233" y="59" width="48" height="48" /> <!--flame2-->
+<SubTexture name="flame0004" x="121" y="59" width="48" height="48" /> <!--flame-->
+<SubTexture name="flame0005" x="289" y="59" width="48" height="48" /> <!--flame2-->
+<SubTexture name="flame0006" x="9" y="115" width="48" height="48" /> <!--flame-->
+<SubTexture name="flame0007" x="177" y="115" width="48" height="48" /> <!--flame2-->
+<SubTexture name="flame0008" x="65" y="115" width="48" height="48" /> <!--flame-->
+<SubTexture name="flame0009" x="233" y="115" width="48" height="48" /> <!--flame2-->
+<SubTexture name="flame0010" x="121" y="115" width="48" height="48" /> <!--flame-->
+<SubTexture name="flame0011" x="289" y="115" width="48" height="48" /> <!--flame2-->
+<SubTexture name="flame0012" x="9" y="171" width="48" height="48" /> <!--flame-->
+<SubTexture name="flame0013" x="177" y="171" width="48" height="48" /> <!--flame2-->
+<SubTexture name="flame0014" x="65" y="171" width="48" height="48" /> <!--flame-->
+<SubTexture name="flame0015" x="233" y="171" width="48" height="48" /> <!--flame2-->
+<SubTexture name="flame0016" x="121" y="171" width="48" height="48" /> <!--flame-->
+<SubTexture name="flame0017" x="289" y="171" width="48" height="48" /> <!--flame2-->
+
+<SubTexture name="flameburst0000" x="9" y="3" width="24" height="48" /> <!--flame burst-->
+<SubTexture name="flameburst0001" x="0" y="0" width="1" height="1" /> <!--nothing-->
+<SubTexture name="flameburst0002" x="41" y="3" width="48" height="47" /> <!--flame burst-->
+<SubTexture name="flameburst0003" x="0" y="0" width="1" height="1" /> <!--nothing-->
+<SubTexture name="flameburst0004" x="97" y="3" width="56" height="48" /> <!--flame burst-->
+<SubTexture name="flameburst0005" x="0" y="0" width="1" height="1" /> <!--nothing-->
+<SubTexture name="flameburst0006" x="9" y="3" width="24" height="48" /> <!--flame burst-->
+<SubTexture name="flameburst0007" x="0" y="0" width="1" height="1" /> <!--nothing-->
+<SubTexture name="flameburst0008" x="97" y="3" width="56" height="48" /> <!--flame burst-->
+<SubTexture name="flameburst0009" x="0" y="0" width="1" height="1" /> <!--nothing-->
+<SubTexture name="flameburst0010" x="161" y="3" width="64" height="48" /> <!--flame burst-->
+<SubTexture name="flameburst0011" x="0" y="0" width="1" height="1" /> <!--nothing-->
+<SubTexture name="flameburst0012" x="9" y="3" width="24" height="48" /> <!--flame burst-->
+<SubTexture name="flameburst0013" x="0" y="0" width="1" height="1" /> <!--nothing-->
+<SubTexture name="flameburst0014" x="41" y="3" width="48" height="47" /> <!--flame burst-->
+<SubTexture name="flameburst0015" x="0" y="0" width="1" height="1" /> <!--nothing-->
+<SubTexture name="flameburst0016" x="97" y="3" width="56" height="48" /> <!--flame burst-->
+<SubTexture name="flameburst0017" x="0" y="0" width="1" height="1" /> <!--nothing-->
+<SubTexture name="flameburst0018" x="9" y="3" width="24" height="48" /> <!--flame burst-->
+<SubTexture name="flameburst0019" x="0" y="0" width="1" height="1" /> <!--nothing-->
+<SubTexture name="flameburst0020" x="97" y="3" width="56" height="48" /> <!--flame burst-->
+<SubTexture name="flameburst0021" x="0" y="0" width="1" height="1" /> <!--nothing-->
+<SubTexture name="flameburst0022" x="161" y="3" width="64" height="48" /> <!--flame burst-->
+<SubTexture name="flameburst0023" x="0" y="0" width="1" height="1" /> <!--nothing-->
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NOTE_assets.png">
+<SubTexture name="shield0000" x="1" y="3" width="46" height="42" /> <!--shield-->
+<SubTexture name="shield0001" x="0" y="0" width="1" height="1" /> <!--nothing-->
+<SubTexture name="shield0002" x="58" y="3" width="45" height="42" /> <!--shield-->
+<SubTexture name="shield0003" x="0" y="0" width="1" height="1" /> <!--nothing-->
+<SubTexture name="shield0004" x="113" y="3" width="46" height="42" /> <!--shield-->
+<SubTexture name="shield0005" x="0" y="0" width="1" height="1" /> <!--nothing-->
+</TextureAtlas>
